@@ -22,13 +22,13 @@
     * presión barométrica (mbar)
     * radiación indirecta (kW/m2)
   * Plantas eólicas (aerogeneradores)
-   * energía (MWh)
-   * velocidad del viento (km/h)
-   * dirección del viento (la referencia será el norte)
-   * temperatura (°C)
-   * nubosidad (%)
-   * humedad relativa (%)
-   * presión barométrica (mbar)
+    * energía (MWh)
+    * velocidad del viento (km/h)
+    * dirección del viento (la referencia será el norte)
+    * temperatura (°C)
+    * nubosidad (%)
+    * humedad relativa (%)
+    * presión barométrica (mbar)
 * Filtrar y ordernar la información obtenida
 * Obtener un modelo para el pronóstico de las variables
 * Probar el modelo obtenido y obtener sus estadísticos
