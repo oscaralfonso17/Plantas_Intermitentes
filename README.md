@@ -3,6 +3,8 @@
 ### Pronósticos de generación de plantas intermitentes
 ### Flores Orozco, Oscar Alfonso; Ramírez Cambero, Job; González Juárez, Edgar Ranulfo
 
+***
+
 ### OBJETIVO GENERAL: 
 
 * Generar un modelo para el pronóstico de variables horarias.
