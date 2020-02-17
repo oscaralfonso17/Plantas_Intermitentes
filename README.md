@@ -1,6 +1,6 @@
 # PAP ITESO 2020
-## PAP PROGRAMA DE MODELACION MATEMATICA PARA EL DESARROLLO DE PLANES Y PROYECTOS DE NEGOCIO I
-### Pronósticos de generación de plantas intermitentes
+## PROGRAMA DE MODELACION MATEMATICA PARA EL DESARROLLO DE PLANES Y PROYECTOS DE NEGOCIO I
+### CENACE: Pronósticos de generación de plantas intermitentes
 ### Flores Orozco, Oscar Alfonso; Ramírez Cambero, Job; González Juárez, Edgar Ranulfo
 
 ***
