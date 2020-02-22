@@ -35,3 +35,10 @@
 * Filtrar y ordernar la información obtenida
 * Obtener un modelo para el pronóstico de las variables
 * Probar el modelo obtenido y obtener sus estadísticos
+
+***
+
+### METODOLOGÍA DE TRABAJO:
+
+
+***
