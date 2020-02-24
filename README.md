@@ -40,5 +40,35 @@
 
 ### METODOLOGÍA DE TRABAJO:
 
+* Para poder trabajar de forma remota
+
 
 ***
+
+### AVANCES 
+
+* Semana 1 
+    * Tuvimos la presentación con el CENACE en sus oficinas
+    * . 
+    
+* Semana 5 
+    * Cambiamos el foco de nuestro proyecto
+    * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior y hacerlo correr
+    * Harémos el código más eficiente y hacer que funcione para ambas plantas; fotovoltaicas y eólicas
+    * El código del equipo tenía algunos errores que identificamos; 
+        * Corrian unos días en específico por eso obtenían un buen porcentaje
+        * Para ciertas plantas no corría la función
+        * Algunas de las APIs que utilizaban son dificiles de instalar 
+        * Su función 'mape_prom' no corría, tenía errores en el código
+        * Reciclaban algunos datos
+    * Para hacerlo correr necesitamos la integración de algunas APIs 
+    * Despues de hacer correr las APIs dentro del código 
+    * Resolvimos dudas con respecto algunos APIs
+    
+* Semana 6 
+    * Se hizo correr las APIs faltantes
+    * Se pudo correr el 'mape_prom' 
+    * Junta con el CENACE para hacer la presentación de los proyectos 
+    * Se explica; Objetivo general del proyecto, objetivos específicos, metodología del trabajo, avances para la fecha
+    * . 
+    
