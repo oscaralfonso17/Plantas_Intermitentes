@@ -40,8 +40,25 @@
 
 ### METODOLOGÍA DE TRABAJO:
 
-* Para poder trabajar de forma remota
+* Para poder trabajar de forma remota, se generó este repositorio de github, donde los tres colaboradores del proyecto podemos editarlo, optimizando tiempos. 
 
+* Herramientas a utilizar
+     * Excel
+     * Python
+     * Jupyter notebook
+* Plataformas para sincronizar archivos
+     * GitHub
+     * GitKraken
+* Librerías a considerar
+     * pandas
+     * numpy
+     * pmarima
+     * statsmodels
+* Criterios a contemplar
+     * MAPE y MAE < 10%
+     * Tiempo de ejecución < 10 minutos
+* Meta a lograr
+     * Modelos ARIMA para la predicción de generación en las plantas intermitentes
 
 ***
 
