@@ -3,6 +3,7 @@
 ### CENACE: Pronósticos de generación de plantas intermitentes
 ### Flores Orozco, Oscar Alfonso; Ramírez Cambero, Job; González Juárez, Edgar Ranulfo
 
+***
 
 ### OBJETIVO GENERAL: 
 
@@ -10,6 +11,7 @@
 * Se utilizarán modelos autorregresivos como ARIMA y modelos dinámicos de regresión hacer las predicciones y se hará una diferenciación entre plantas solares y eólicas, por que su comportamiento es distinto.
 * Pondremos a competir los modelos creados, para obtener un menor tiempo de corrida con mayor eficiencia.
 
+***
 
 ### OBJETIVOS ESPECÍFICOS:
 
@@ -35,6 +37,8 @@
 * Obtener un modelo para el pronóstico de las variables
 * Probar el modelo obtenido y obtener sus estadísticos
 
+***
+
 ### METODOLOGÍA DE TRABAJO:
 
 * Herramientas a utilizar 
@@ -54,6 +58,8 @@
     * Tiempo de ejecución > 10 minutos
 * Meta a lograr
     * Modelos ARIMA o dinámicos para la predicción de generacion en las plantas intermitentes tanto solares, como eólicas. 
+
+***
 
 ### AVANCES 
 
