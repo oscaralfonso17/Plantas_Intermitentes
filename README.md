@@ -70,6 +70,11 @@
 * Semana 2
     * Se hicieron los equipos para podernos dividir los proyectos que se dejaron acargo de este PAP 
     * Se consultó con el cordinador de PAP como es que se llevaría acabo el procedimiento de cada proyecto 
+    * Fijamos los objetivos 
+* Semana 3
+    * Entender el código del semestre pasado 
+    * Entender que es el modelo ARIMA y como funciona en Python 
+    * Optimizar el código para lograr una reducción de tiempo, en MAE y MAPE
 * Semana 4
     * Cargar codigo en github
     * Pronóstico 1 año completo
@@ -80,6 +85,7 @@
     * Ediciones o mejoras o propuesta de reestructuración completa del código.
     * Econtramos APIs para bajar los datos historicos del clima en Gdl 
         * Desventajas; Hay que estar bajando el excel y son cada 3 horas, no cada hora
+    * obtuvimos datos meteorológicos 
 * Semana 5 
     * Cambiamos el foco de nuestro proyecto
     * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior y hacerlo correr
