@@ -69,11 +69,14 @@
 * Semana 2
     * Se hicieron los equipos para podernos dividir los proyectos que se dejaron acargo de este PAP 
     * Se consultó con el cordinador de PAP como es que se llevaría acabo el procedimiento de cada proyecto 
+<<<<<<< refs/remotes/oscaralfonso17/master
     * Fijamos los objetivos 
 * Semana 3
     * Entender el código del semestre pasado 
     * Entender que es el modelo ARIMA y como funciona en Python 
     * Optimizar el código para lograr una reducción de tiempo, en MAE y MAPE
+=======
+>>>>>>> Update README.md
 * Semana 4
     * Cargar codigo en github
     * Pronóstico 1 año completo
@@ -84,7 +87,10 @@
     * Ediciones o mejoras o propuesta de reestructuración completa del código.
     * Econtramos APIs para bajar los datos historicos del clima en Gdl 
         * Desventajas; Hay que estar bajando el excel y son cada 3 horas, no cada hora
+<<<<<<< refs/remotes/oscaralfonso17/master
     * obtuvimos datos meteorológicos 
+=======
+>>>>>>> Update README.md
 * Semana 5 
     * Cambiamos el foco de nuestro proyecto
     * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior y hacerlo correr
@@ -104,4 +110,8 @@
     * Se pudo correr el 'mape_prom' 
     * Junta con el CENACE para hacer la presentación de los proyectos 
     * Se explica; Objetivo general del proyecto, objetivos específicos, metodología del trabajo, avances para la fecha
+<<<<<<< refs/remotes/oscaralfonso17/master
     * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos.
+=======
+    * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos. 
+>>>>>>> Update README.md
