@@ -3,13 +3,15 @@
 ### CENACE: Pronósticos de generación de plantas intermitentes
 ### Flores Orozco, Oscar Alfonso; Ramírez Cambero, Job; González Juárez, Edgar Ranulfo
 
-***
+*
 
 ### OBJETIVO GENERAL: 
 
-* Generar un modelo para el pronóstico de variables horarias.
+* Generar un modelo para el pronóstico de variables horarias, usando datos de generación de energía proveídos por el CENACE.
+* Se utilizarán modelos autorregresivos como ARIMA y modelos dinámicos de regresión hacer las predicciones y se hará una diferenciación entre plantas solares y eólicas, por que su comportamiento es distinto.
+* Pondremos a competir los modelos creados, para obtener un menor tiempo de corrida con mayor eficiencia.
 
-***
+*
 
 
 ### OBJETIVOS ESPECÍFICOS:
@@ -36,70 +38,65 @@
 * Obtener un modelo para el pronóstico de las variables
 * Probar el modelo obtenido y obtener sus estadísticos
 
-***
+*
 
 ### METODOLOGÍA DE TRABAJO:
 
-* Para poder trabajar de forma remota, se generó este repositorio de github, donde los tres colaboradores del proyecto podemos editarlo, optimizando tiempos. 
-
-* Herramientas a utilizar
-     * Excel
-     * Python
-     * Jupyter notebook
-* Plataformas para sincronizar archivos
-     * GitHub
-     * GitKraken
+* Herramientas a utilizar 
+    * Excel 
+    * Python
+    * Jupyter notebook 
+* Plataforma para sincronicar
+    * GitHub
+    * GitKraken
 * Librerías a considerar
-     * pandas
-     * numpy
-     * pmarima
-     * statsmodels
-* Criterios a contemplar
-     * MAPE y MAE < 10%
-     * Tiempo de ejecución < 10 minutos
+    * Pandas
+    * Numpy 
+    * Pmarima
+    * Statsmodels
+* Criterios a contemplar 
+    * MAPE y MAE < 10%
+    * Tiempo de ejecución > 10 minutos
 * Meta a lograr
-     * Modelos ARIMA para la predicción de generación en las plantas intermitentes
+    * Modelos ARIMA o dinámicos para la predicción de generacion en las plantas intermitentes tanto solares, como eólicas. 
 
-***
+*
 
 ### AVANCES 
 
 * Semana 1 
-    * Se definieron los equipos de trabajo, y los objetivos generales del PAP.
-
+    * Tuvimos la presentación con el CENACE en sus oficinas
+    * Se explicó que es lo que se hará con el CENACE
 * Semana 2
-    * Tuvimos una junta con el CENACE en sus oficinas, donde se nos presentaron sus metodologías de trabajo y sus objetivos que tienen con el convenio PAP.
-
-* Semana 3
-    * Tuvimos una segunda junta, ahora con el equipo de desarrollo de aplicaciones del CENACE, quienes nos explicaron los lineamientos de los entregables que buscan por parte de nosotros
-
+    * Se hicieron los equipos para podernos dividir los proyectos que se dejaron acargo de este PAP 
+    * Se consultó con el cordinador de PAP como es que se llevaría acabo el procedimiento de cada proyecto 
 * Semana 4
-    * Se empezó con la búsqueda de APIs para la descarga de datos históricos del clima.
-        * Nos topamos con el problema del costo de las mismas API, pero se encontró este sitio: https://rp5.ru/ que te da históricos de la mayoría de las ciudades.
-        * Se comenzó a limpiar la base de datos obtenida y a observar que columnas de información serán útiles para los siguentes pasos del proyecto.
-    
+    * Cargar codigo en github
+    * Pronóstico 1 año completo
+    * MAE < 20%
+    * MAPE < 20%
+    * Estadística descriptiva de los resultados
+    * Pull request
+    * Ediciones o mejoras o propuesta de reestructuración completa del código.
+    * Econtramos APIs para bajar los datos historicos del clima en Gdl 
+        * Desventajas; Hay que estar bajando el excel y son cada 3 horas, no cada hora
 * Semana 5 
-    * Cambiamos el foco de nuestro proyecto.
-    * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior, entenderlo y buscar mejorarlo.
-    * Harémos el código más eficiente y hacer que funcione para ambas plantas; fotovoltaicas y eólicas, buscando reducir también el tiempo de ejecución.
+    * Cambiamos el foco de nuestro proyecto
+    * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior y hacerlo correr
+    * Harémos el código más eficiente y hacer que funcione para ambas plantas; fotovoltaicas y eólicas
     * El código del equipo tenía algunos errores que identificamos; 
         * Corrian unos días en específico por eso obtenían un buen porcentaje
         * Para ciertas plantas no corría la función
         * Algunas de las APIs que utilizaban son dificiles de instalar 
         * Su función 'mape_prom' no corría, tenía errores en el código
         * Reciclaban algunos datos
-    * Para hacerlo correr necesitamos la integración de algunas librerías de python.
-    * Se logró la instalación de las librerías dentro del código 
-    * Resolvimos dudas con respecto algunos librerías
+    * Para hacerlo correr necesitamos la integración de algunas APIs 
+    * Despues de hacer correr las APIs dentro del código 
+    * Resolvimos dudas con respecto algunos APIs
     
 * Semana 6 
-    * Se hizo correr las librerías faltantes
+    * Se hizo correr las APIs faltantes
     * Se pudo correr el 'mape_prom' 
-    * Junta con el CENACE para hacer la presentación de los proyectos y objetivos por equipos:
-        * Se explica:
-          * Objetivo general del proyecto
-          * objetivos específicos
-          * metodología del trabajo
-          * avances para la fecha
-    
-    
+    * Junta con el CENACE para hacer la presentación de los proyectos 
+    * Se explica; Objetivo general del proyecto, objetivos específicos, metodología del trabajo, avances para la fecha
+    * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos.
