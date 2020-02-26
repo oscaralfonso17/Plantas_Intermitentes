@@ -70,11 +70,17 @@
     * Se hicieron los equipos para podernos dividir los proyectos que se dejaron acargo de este PAP 
     * Se consultó con el cordinador de PAP como es que se llevaría acabo el procedimiento de cada proyecto 
 <<<<<<< refs/remotes/oscaralfonso17/master
+<<<<<<< refs/remotes/oscaralfonso17/master
+=======
+>>>>>>> Update README.md
     * Fijamos los objetivos 
 * Semana 3
     * Entender el código del semestre pasado 
     * Entender que es el modelo ARIMA y como funciona en Python 
     * Optimizar el código para lograr una reducción de tiempo, en MAE y MAPE
+<<<<<<< refs/remotes/oscaralfonso17/master
+=======
+>>>>>>> Update README.md
 =======
 >>>>>>> Update README.md
 * Semana 4
@@ -88,8 +94,12 @@
     * Econtramos APIs para bajar los datos historicos del clima en Gdl 
         * Desventajas; Hay que estar bajando el excel y son cada 3 horas, no cada hora
 <<<<<<< refs/remotes/oscaralfonso17/master
+<<<<<<< refs/remotes/oscaralfonso17/master
     * obtuvimos datos meteorológicos 
 =======
+>>>>>>> Update README.md
+=======
+    * obtuvimos datos meteorológicos 
 >>>>>>> Update README.md
 * Semana 5 
     * Cambiamos el foco de nuestro proyecto
