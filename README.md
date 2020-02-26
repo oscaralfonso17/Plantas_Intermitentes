@@ -7,7 +7,9 @@
 
 ### OBJETIVO GENERAL: 
 
-* Generar un modelo para el pronóstico de variables horarias.
+* Generar un modelo para el pronóstico de variables horarias, usando datos de generación de energía proveídos por el CENACE.
+* Se utilizarán modelos autorregresivos como ARIMA y modelos dinámicos de regresión hacer las predicciones y se hará una diferenciación entre plantas solares y eólicas, por que su comportamiento es distinto.
+* Pondremos a competir los modelos creados, para obtener un menor tiempo de corrida con mayor eficiencia.
 
 ***
 
@@ -40,8 +42,23 @@
 
 ### METODOLOGÍA DE TRABAJO:
 
-* Para poder trabajar de forma remota
-
+* Herramientas a utilizar 
+    * Excel 
+    * Python
+    * Jupyter notebook 
+* Plataforma para sincronicar
+    * GitHub
+    * GitKraken
+* Librerías a considerar
+    * Pandas
+    * Numpy 
+    * Pmarima
+    * Statsmodels
+* Criterios a contemplar 
+    * MAPE y MAE < 10%
+    * Tiempo de ejecución > 10 minutos
+* Meta a lograr
+    * Modelos ARIMA o dinámicos para la predicción de generacion en las plantas intermitentes tanto solares, como eólicas. 
 
 ***
 
@@ -49,8 +66,20 @@
 
 * Semana 1 
     * Tuvimos la presentación con el CENACE en sus oficinas
-    * . 
-    
+    * Se explicó que es lo que se hará con el CENACE
+* Semana 2
+    * Se hicieron los equipos para podernos dividir los proyectos que se dejaron acargo de este PAP 
+    * Se consultó con el cordinador de PAP como es que se llevaría acabo el procedimiento de cada proyecto 
+* Semana 4
+    * Cargar codigo en github
+    * Pronóstico 1 año completo
+    * MAE < 20%
+    * MAPE < 20%
+    * Estadística descriptiva de los resultados
+    * Pull request
+    * Ediciones o mejoras o propuesta de reestructuración completa del código.
+    * Econtramos APIs para bajar los datos historicos del clima en Gdl 
+        * Desventajas; Hay que estar bajando el excel y son cada 3 horas, no cada hora
 * Semana 5 
     * Cambiamos el foco de nuestro proyecto
     * Nuestro nuevo objetivo para el proyecto será tomar el código del equipo anterior y hacerlo correr
@@ -70,5 +99,4 @@
     * Se pudo correr el 'mape_prom' 
     * Junta con el CENACE para hacer la presentación de los proyectos 
     * Se explica; Objetivo general del proyecto, objetivos específicos, metodología del trabajo, avances para la fecha
-    * . 
-    
+    * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos. 
