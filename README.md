@@ -104,4 +104,4 @@
     * Se pudo correr el 'mape_prom' 
     * Junta con el CENACE para hacer la presentación de los proyectos 
     * Se explica; Objetivo general del proyecto, objetivos específicos, metodología del trabajo, avances para la fecha
-    * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos.
+    * Primera entrega de nuestra presentación formal para explicar que es lo que estamos haciendo y que haremos para alcanzar nuestros objetivos. 
